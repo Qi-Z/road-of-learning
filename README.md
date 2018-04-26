@@ -8,6 +8,9 @@ A comprehensive book by Angular core team member
 ### https://flukeout.github.io/
 CSS Exercise
 
+### SurviveJS
+Webpack in-depth tutorial
+
 ## Topics
 
 ### Visitor Pattern
