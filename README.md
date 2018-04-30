@@ -16,6 +16,9 @@ Webpack in-depth tutorial
 ### GraphQL
 https://www.howtographql.com/
 
+### Falcor
+Alternative solution of GraphQL by Netflix
+https://netflix.github.io/falcor/
 
 ### Visitor Pattern
 https://www.tutorialspoint.com/design_pattern/visitor_pattern.htm
