@@ -13,5 +13,9 @@ Webpack in-depth tutorial
 
 ## Topics
 
+### GraphQL
+https://www.howtographql.com/
+
+
 ### Visitor Pattern
 https://www.tutorialspoint.com/design_pattern/visitor_pattern.htm
