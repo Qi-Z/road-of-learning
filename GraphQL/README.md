@@ -292,6 +292,19 @@ Each field in the query comes with a resolver function in the backend. That's ho
 ### GraphQL-Yoga
 Fully-featured GraphQL server https://github.com/graphcool/graphql-yoga
 
+Here’s a list of its features:
+
+* GraphQL spec-compliant
+* Supports file upload
+* Realtime functionality with GraphQL subscriptions
+* Works with TypeScript typings
+* Out-of-the-box support for GraphQL Playground
+* Extensible via Express middlewares
+* Resolves custom directives in your GraphQL schema
+* Query performance tracing
+* Accepts both application/json and application/graphql content-types
+* Runs everywhere: Can be deployed via now, up, AWS Lambda, Heroku etc.
+
 ## My feeling
 1. The type definition resembles Typescript. Strongly typed.
 2. Concise
