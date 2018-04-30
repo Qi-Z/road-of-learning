@@ -1,5 +1,6 @@
 # GraphQL
-Query Language and server-side 
+QraphQL is only a specification.
+Query Language and server-side .
 
 ## Important Concepts
 ### SDL (Schema Definition Language)
@@ -290,3 +291,6 @@ type Mutation {
 1. The type definition resembles Typescript. Strongly typed.
 2. Concise
 3. No semicolon needed
+
+
+## Q&A
