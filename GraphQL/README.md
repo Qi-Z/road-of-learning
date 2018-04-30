@@ -285,6 +285,8 @@ type Mutation {
 
 }
 ```
+### Resolver functions
+Each field in the query comes with a resolver function in the backend. That's how we fetch the data under the hood.
 
 
 ## My feeling
