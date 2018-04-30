@@ -288,6 +288,9 @@ type Mutation {
 ### Resolver functions
 Each field in the query comes with a resolver function in the backend. That's how we fetch the data under the hood.
 
+## Libraries & Tools
+### GraphQL-Yoga
+Fully-featured GraphQL server https://github.com/graphcool/graphql-yoga
 
 ## My feeling
 1. The type definition resembles Typescript. Strongly typed.
