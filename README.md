@@ -18,6 +18,8 @@ https://www.howtographql.com/
 
 ### Falcor
 Alternative solution of GraphQL by Netflix
+
+
 https://netflix.github.io/falcor/
 
 ### Visitor Pattern
