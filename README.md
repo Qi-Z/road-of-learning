@@ -5,8 +5,8 @@ Track what I learned and am learning
 ### Angular Router
 A comprehensive book by Angular core team member
 
-### https://flukeout.github.io/
-CSS Exercise
+### Interactive CSS Exercise
+https://flukeout.github.io/
 
 ### SurviveJS
 Webpack in-depth tutorial
