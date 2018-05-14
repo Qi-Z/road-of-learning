@@ -24,3 +24,8 @@ https://netflix.github.io/falcor/
 
 ### Visitor Pattern
 https://www.tutorialspoint.com/design_pattern/visitor_pattern.htm
+
+### Redux-Saga
+
+
+### kubernetes
