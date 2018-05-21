@@ -15,6 +15,11 @@ Webpack in-depth tutorial
 
 ### GraphQL
 https://www.howtographql.com/
+#### GraphQL 3-part series
+
+1. [Part 1. The GraphQL Schema](https://blog.graph.cool/graphql-server-basics-the-schema-ac5e2950214e)
+2. [Part 2. The Network Layer](https://blog.graph.cool/graphql-server-basics-the-network-layer-51d97d21861)
+3. [Part 3. GraphQL Server Basics: Demystifying the `info` Argument in GraphQL Resolvers](https://blog.graph.cool/graphql-server-basics-demystifying-the-info-argument-in-graphql-resolvers-6f26249f613a)
 
 ### Falcor
 Alternative solution of GraphQL by Netflix
