@@ -40,3 +40,6 @@ https://reactjs.org/docs/rendering-elements.html
 
 ### Front End Interview
 https://github.com/Qi-Z/Front-end-Developer-Interview-Questions
+
+### HTTP2
+https://http2.github.io/faq/
