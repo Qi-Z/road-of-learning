@@ -5,6 +5,14 @@ Track what I learned and am learning
 ### Angular Router
 A comprehensive book by Angular core team member
 
+### Don't Make Me Think by Steve Krug
+https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?ie=UTF8&qid=1527863109&sr=8-1&keywords=don%27t+make+me+think+steve+krug
+
+### Now You See It by Stephen Few
+A great book on visualization
+https://www.amazon.com/Now-You-See-Visualization-Quantitative/dp/0970601980
+
+
 ### Interactive CSS Exercise
 https://flukeout.github.io/
 
@@ -44,3 +52,5 @@ https://github.com/Qi-Z/Front-end-Developer-Interview-Questions
 ### HTTP2
 https://http2.github.io/faq/
 https://css-tricks.com/http2-real-world-performance-test-analysis/
+
+
