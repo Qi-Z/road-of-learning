@@ -56,4 +56,7 @@ https://css-tricks.com/http2-real-world-performance-test-analysis/
 ### SASS
 https://sass-lang.com/
 
+### RequireJS
+http://requirejs.org/docs/whyamd.html#purposes
+
 
