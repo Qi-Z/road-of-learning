@@ -62,3 +62,6 @@ http://requirejs.org/docs/whyamd.html#purposes
 ### Web page optimization
 * https://www.webpagetest.org/result/180617_EC_ee53ce9c4599ae76bdbce41a14ccea5a/1/details/#waterfall_view_step1
 * https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.yahoo.com
+
+### findbugs for Java
+http://findbugs.sourceforge.net/bugDescriptions.html
