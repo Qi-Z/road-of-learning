@@ -19,6 +19,9 @@ https://flukeout.github.io/
 ### SurviveJS
 Webpack in-depth tutorial
 
+### The DevOps Handbook
+Learn about dev ops
+
 ## Topics
 
 ### GraphQL
