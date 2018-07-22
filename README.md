@@ -68,3 +68,7 @@ http://requirejs.org/docs/whyamd.html#purposes
 
 ### findbugs for Java
 http://findbugs.sourceforge.net/bugDescriptions.html
+
+### Redis
+
+### RabbitMQ
