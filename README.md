@@ -22,6 +22,8 @@ Webpack in-depth tutorial
 ### The DevOps Handbook
 Learn about dev ops
 
+### Refactoring: Improving the Design of Existing Code
+
 ## Websites
 ### The Node Way
 http://thenodeway.io/introduction/#build-small-single-purpose-modules
