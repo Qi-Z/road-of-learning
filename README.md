@@ -24,6 +24,11 @@ Learn about dev ops
 
 ### Refactoring: Improving the Design of Existing Code
 
+### DOM Scripting - Web Design with JavaSript and the Document Object Model 
+
+### JavaScript: The Good Parts
+
+
 ## Websites
 ### The Node Way
 http://thenodeway.io/introduction/#build-small-single-purpose-modules
