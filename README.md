@@ -28,6 +28,9 @@ Learn about dev ops
 
 ### JavaScript: The Good Parts
 
+### High Performance Browser Networking
+
+https://hpbn.co/xmlhttprequest/
 
 ## Websites
 ### The Node Way
