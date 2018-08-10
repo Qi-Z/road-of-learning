@@ -29,8 +29,10 @@ Learn about dev ops
 ### JavaScript: The Good Parts
 
 ### High Performance Browser Networking
-
 https://hpbn.co/xmlhttprequest/
+
+### Best Java Books
+https://www.quora.com/What-are-the-best-books-to-learn-Java
 
 ## Websites
 ### The Node Way
