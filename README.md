@@ -1,7 +1,7 @@
 # road-of-learning
 Track what I learned and am learning
 
-## Books
+# Books
 ### Angular Router
 A comprehensive book by Angular core team member
 
@@ -34,12 +34,12 @@ https://hpbn.co/xmlhttprequest/
 ### Best Java Books
 https://www.quora.com/What-are-the-best-books-to-learn-Java
 
-## Websites
+# Websites
 ### The Node Way
 http://thenodeway.io/introduction/#build-small-single-purpose-modules
 
 
-## Topics
+# Topics
 
 ### GraphQL
 https://www.howtographql.com/
@@ -102,3 +102,6 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 ### OWASP (A LOT of things you want to know about web and Internet)
 https://www.owasp.org
+
+### Sidekiq
+https://sidekiq.org/
