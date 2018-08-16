@@ -89,3 +89,8 @@ http://findbugs.sourceforge.net/bugDescriptions.html
 ### Redis
 
 ### RabbitMQ
+
+### Celery
+Task Queue
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
