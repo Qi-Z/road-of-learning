@@ -94,3 +94,6 @@ http://findbugs.sourceforge.net/bugDescriptions.html
 Task Queue
 
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+### OWASP (A LOT of things you want to know about web and Internet)
+https://www.owasp.org
