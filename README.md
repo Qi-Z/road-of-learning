@@ -90,8 +90,13 @@ http://findbugs.sourceforge.net/bugDescriptions.html
 
 ### RabbitMQ
 
+### Task Queue (background job)
+http://blog.scoutapp.com/articles/2016/02/16/which-ruby-background-job-framework-is-right-for-you
+
 ### Celery
 Task Queue
+
+http://www.celeryproject.org/
 
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
