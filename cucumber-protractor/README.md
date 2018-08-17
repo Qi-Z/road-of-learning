@@ -21,7 +21,7 @@ Separate Page Object, so DOM change won't affect cucumber code // **decoupled**
 
 
 # Problems
-## Session creation failed
+## Session creation failed (unsolved as of 8/17/2018)
 ```
 [01:16:31] E/launcher - session not created exception
 from disconnected: unable to connect to renderer
@@ -43,8 +43,22 @@ A few options to try:
 a. `brew cask install chromedriver`
 b. `webdriver-manager update --versions.chrome=2.29` 
 
+## tests show pass before execution
+https://stackoverflow.com/questions/38405184/protractor-cucumber-bdd-tests-show-pass-before-execution
 
 # Tips & Quick Commands
 
 ## Check host file
 `cat /etc/hosts`
+
+## require.resolve('')
+Use the internal `require()` machinery to look up the location of a module, but rather than loading the module, just return the resolved filename.
+
+
+
+# Libraries
+## cucumber-pretty
+[npm](https://www.npmjs.com/package/cucumber-pretty)
+
+## Different formatters
+https://relishapp.com/cucumber/cucumber/docs/formatters/usage-formatter
