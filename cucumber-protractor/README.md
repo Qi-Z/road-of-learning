@@ -49,6 +49,14 @@ https://stackoverflow.com/questions/38405184/protractor-cucumber-bdd-tests-show-
 ## how is Chrome controlled
 [test script] <-----> [selenium driver] <------> [web driver like chrome]
 
+To connect directly:
+Use 
+```
+chromeOnly: true,
+directConnect: true,
+```
+in `protractor.conf.js`
+
 # Tips & Quick Commands
 
 ## Check host file
