@@ -46,6 +46,9 @@ b. `webdriver-manager update --versions.chrome=2.29`
 ## tests show pass before execution
 https://stackoverflow.com/questions/38405184/protractor-cucumber-bdd-tests-show-pass-before-execution
 
+## how is Chrome controlled
+[test script] <-----> [selenium driver] <------> [web driver like chrome]
+
 # Tips & Quick Commands
 
 ## Check host file
