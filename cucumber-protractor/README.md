@@ -77,3 +77,5 @@ https://relishapp.com/cucumber/cucumber/docs/formatters/usage-formatter
 
 # Fun Readings
 [Say no to more e2e tests by Google](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
+
+[What does end to end test mean](http://toolsqa.com/software-testing/what-does-end-to-end-test-mean/)
