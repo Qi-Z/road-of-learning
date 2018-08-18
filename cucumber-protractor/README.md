@@ -2,6 +2,8 @@
 [Reference](https://medium.com/spektrakel-blog/angular-protractor-and-cucumber-552bd75ff6c9)
 
 [Angular protractor official Doc](https://github.com/angular/protractor/blob/master/lib/config.ts)
+
+[Serenity and how to write good specs MUST READ](https://serenity-js.org/introduction.html)
 # Steps
 1. Install dev dependencies
 ```
