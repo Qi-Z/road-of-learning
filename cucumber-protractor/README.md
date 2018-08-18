@@ -74,3 +74,6 @@ Use the internal `require()` machinery to look up the location of a module, but 
 
 ## Different formatters
 https://relishapp.com/cucumber/cucumber/docs/formatters/usage-formatter
+
+# Fun Readings
+[Say no to more e2e tests by Google](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
