@@ -105,3 +105,6 @@ https://www.owasp.org
 
 ### Sidekiq
 https://sidekiq.org/
+
+### Promise
+[Design of Promise (github repo)](https://github.com/kriskowal/q/tree/master/design)
