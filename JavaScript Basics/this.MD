@@ -1,4 +1,5 @@
 # this
+JavaScript is late binding language. Not bind at compile time, not at runtime, BUT at call time!
 
 ## Call Site
 * func.bind()
@@ -15,7 +16,7 @@ Called with call or apply (or bind)? Use the specified object.
 Called with a context object owning the call? Use that context object.
 
 Default: undefined in strict mode, global object otherwise.
-  </blockquote>
+</blockquote>
   
   
 # Example
