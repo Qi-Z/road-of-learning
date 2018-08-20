@@ -7,6 +7,17 @@
 * `window` or `global`
 
 
+<blockquote>
+  Called with new? Use the newly constructed object.
+
+Called with call or apply (or bind)? Use the specified object.
+
+Called with a context object owning the call? Use that context object.
+
+Default: undefined in strict mode, global object otherwise.
+  </blockquote>
+  
+  
 # Example
 ```javascript
 var myObject = {
@@ -21,4 +32,11 @@ var myObject = {
 }
 
 myObject.say();
+
+```
+prints out:
+
+```
+From IIFE: this.foo = undefined
+From IIFE: self.foo = bar
 ```
