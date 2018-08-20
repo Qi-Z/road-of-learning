@@ -9,7 +9,7 @@
 
 # Example
 ```javascript
-var object = {
+var myObject = {
   foo: 'bar',
   say: function() {
     var self = this;
@@ -20,5 +20,5 @@ var object = {
   }
 }
 
-object.say();
+myObject.say();
 ```
