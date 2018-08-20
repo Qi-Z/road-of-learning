@@ -13,10 +13,10 @@ var object = {
   foo: 'bar',
   say: function() {
     var self = this;
-    ((function() {
+    (function() {
       console.log('From IIFE: this.foo = '+this.foo);
       console.log('From IIFE: self.foo = '+self.foo);
-    })()); // IIFE
+    }()); // IIFE
   }
 }
 
