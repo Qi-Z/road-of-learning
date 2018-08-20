@@ -83,3 +83,5 @@ https://relishapp.com/cucumber/cucumber/docs/formatters/usage-formatter
 [What does end to end test mean](http://toolsqa.com/software-testing/what-does-end-to-end-test-mean/)
 
 [Protractor can be used for non Angular app](https://medium.com/@marcelmokos/end-to-end-testing-with-protractor-using-modern-javascript-syntax-44e5121c2e03)
+
+[Use Await and Async to ease test writing](https://chariotsolutions.com/blog/post/simplify-protractor-web-tests-with-async-and-await/)
