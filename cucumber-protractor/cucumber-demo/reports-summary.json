@@ -1,0 +1,71 @@
+[
+  {
+    "description": "  The default Homepage",
+    "keyword": "Feature",
+    "name": "Home",
+    "line": 1,
+    "id": "home",
+    "tags": [],
+    "uri": "e2e\\features\\home.feature",
+    "elements": [
+      {
+        "id": "home;correct-h1",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Correct h1",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "e2e\\steps\\home.steps.ts:4"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I am on the homepage",
+            "match": {
+              "location": "e2e\\steps\\home.steps.ts:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "I should see \"Welcome to cucumber-demo\"",
+            "match": {
+              "location": "e2e\\steps\\home.steps.ts:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:25"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -34,6 +34,9 @@ https://hpbn.co/xmlhttprequest/
 ### Best Java Books
 https://www.quora.com/What-are-the-best-books-to-learn-Java
 
+### Learn JavaScript Design Patterns
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
 # Websites
 ### The Node Way
 http://thenodeway.io/introduction/#build-small-single-purpose-modules
@@ -105,3 +108,6 @@ https://www.owasp.org
 
 ### Sidekiq
 https://sidekiq.org/
+
+### Promise
+[Design of Promise (github repo)](https://github.com/kriskowal/q/tree/master/design)
