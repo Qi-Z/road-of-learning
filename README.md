@@ -37,6 +37,9 @@ https://www.quora.com/What-are-the-best-books-to-learn-Java
 ### Learn JavaScript Design Patterns
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
+### Ruby books
+https://whatpixel.com/best-ruby-books/
+
 # Websites
 ### The Node Way
 http://thenodeway.io/introduction/#build-small-single-purpose-modules
