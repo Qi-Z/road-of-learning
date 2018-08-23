@@ -74,6 +74,9 @@ use `suites` in protractor.conf.js for different scenarios
 ## do not expose password
 use environment variables with `dotenv` for easy config in `onPrepare()` within `protractor.conf.js`
 
+## Don't want to write so many DOM manipulation in specs
+Use page objects
+
 # Tips & Quick Commands
 
 ## Check host file
