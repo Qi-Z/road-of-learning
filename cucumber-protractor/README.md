@@ -62,6 +62,18 @@ directConnect: true,
 ```
 in `protractor.conf.js`
 
+## expect() not found
+Try use `chai` and `chai-as-promised`
+
+## deal with promise
+use `await` and `async`
+
+## How to deal with different suites
+use `suites` in protractor.conf.js for different scenarios
+
+## do not expose password
+use environment variables with `dotenv` for easy config in `onPrepare()` within `protractor.conf.js`
+
 # Tips & Quick Commands
 
 ## Check host file
