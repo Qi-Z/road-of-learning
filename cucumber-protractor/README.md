@@ -77,6 +77,9 @@ use environment variables with `dotenv` for easy config in `onPrepare()` within 
 ## Don't want to write so many DOM manipulation in specs
 Use page objects
 
+## Unstable execution, timeout frequently
+Make sure you disable control flow with `SELENIUM_PROMISE_MANAGER: false` in conf.js if you are using `await` `async`
+
 # Tips & Quick Commands
 
 ## Check host file
