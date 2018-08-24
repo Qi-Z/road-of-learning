@@ -6,6 +6,11 @@
 [Angular protractor official Doc](https://github.com/angular/protractor/blob/master/lib/config.ts)
 
 [Serenity and how to write good specs MUST READ](https://serenity-js.org/introduction.html)
+
+[Large scale Angular testing with Protractor](https://www.youtube.com/watch?v=ympTE-bLYaU)
+
+[Protractor Styleguide](https://www.youtube.com/watch?feature=player_embedded&v=-lTGnYwnEuM)
+
 # Steps
 1. Install dev dependencies
 ```
