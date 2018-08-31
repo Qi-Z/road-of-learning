@@ -40,6 +40,9 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 ### Ruby books
 https://whatpixel.com/best-ruby-books/
 
+### Ruby tutorial
+https://www.railstutorial.org/book
+
 # Websites
 ### The Node Way
 http://thenodeway.io/introduction/#build-small-single-purpose-modules
