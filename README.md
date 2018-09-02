@@ -1,6 +1,8 @@
 # road-of-learning
 Track what I learned and am learning
 
+<input type="checkbox">
+
 # Books
 ### Angular Router
 A comprehensive book by Angular core team member
