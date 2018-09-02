@@ -1,7 +1,15 @@
 # road-of-learning
 Track what I learned and am learning
 
-<input type="checkbox">
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
 
 # Books
 ### Angular Router
