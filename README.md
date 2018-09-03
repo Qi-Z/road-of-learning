@@ -12,6 +12,8 @@ Track what I learned and am learning
 - [ ] Comet Haley
 
 # Books
+## Books repo  https://github.com/Qi-Z/books
+
 ### Angular Router
 A comprehensive book by Angular core team member
 
