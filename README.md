@@ -1,15 +1,10 @@
 # road-of-learning
 Track what I learned and am learning
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] Ruby on Rail
+- [ ] Algorithm
+- [ ] React
+- [ ] System Design
 
 # Books
 ## Books repo  https://github.com/Qi-Z/books
@@ -59,6 +54,8 @@ https://www.railstutorial.org/book
 ### The Node Way
 http://thenodeway.io/introduction/#build-small-single-purpose-modules
 
+### System Design Interview Prepare
+https://github.com/donnemartin/system-design-primer
 
 # Topics
 
