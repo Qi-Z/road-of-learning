@@ -57,6 +57,9 @@ http://thenodeway.io/introduction/#build-small-single-purpose-modules
 ### System Design Interview Prepare
 https://github.com/donnemartin/system-design-primer
 
+### ACM articles (cover a lot of area)
+https://queue.acm.org/
+
 # Topics
 
 ### GraphQL
@@ -126,3 +129,4 @@ https://sidekiq.org/
 
 ### Promise
 [Design of Promise (github repo)](https://github.com/kriskowal/q/tree/master/design)
+
