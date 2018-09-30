@@ -60,6 +60,9 @@ https://github.com/donnemartin/system-design-primer
 ### ACM articles (cover a lot of area)
 https://queue.acm.org/
 
+### ES6 in Depth
+https://hacks.mozilla.org/category/es6-in-depth/
+
 # Topics
 
 ### GraphQL
