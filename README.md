@@ -5,6 +5,7 @@ Track what I learned and am learning
 - [ ] Algorithm
 - [ ] React
 - [ ] System Design
+- [ ] AI & Machine Learning
 
 # Books
 ## Books repo  https://github.com/Qi-Z/books
@@ -65,6 +66,9 @@ https://hacks.mozilla.org/category/es6-in-depth/
 
 ### Princeton Recursion
 https://introcs.cs.princeton.edu/java/23recursion/
+
+### Beginner AI, ML
+https://www.quora.com/What-is-the-best-way-to-learn-AI-DL-and-ML
 
 # Topics
 
