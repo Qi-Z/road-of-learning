@@ -60,6 +60,7 @@ https://github.com/donnemartin/system-design-primer
 
 ### ACM articles (cover a lot of area)
 https://queue.acm.org/
+https://pic1.zhimg.com/e3b89637822602c27c69255db04ade90_r.jpg
 
 ### ES6 in Depth
 https://hacks.mozilla.org/category/es6-in-depth/
