@@ -51,6 +51,12 @@ https://whatpixel.com/best-ruby-books/
 ### Ruby tutorial
 https://www.railstutorial.org/book
 
+# MOOC
+### Mathematics for computer science
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm
+
+
+
 # Websites
 ### The Node Way
 http://thenodeway.io/introduction/#build-small-single-purpose-modules
