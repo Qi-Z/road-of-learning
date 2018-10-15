@@ -147,3 +147,9 @@ https://sidekiq.org/
 ### Promise
 [Design of Promise (github repo)](https://github.com/kriskowal/q/tree/master/design)
 
+# Algorithms
+### CS573
+https://courses.engr.illinois.edu/cs573/fa2014/lec/
+
+### CS473
+https://courses.engr.illinois.edu/cs473/sp2018/lectures.html
