@@ -157,3 +157,6 @@ https://courses.engr.illinois.edu/cs473/sp2018/lectures.html
 
 ### CMU
 http://www.cs.cmu.edu/~15451/
+
+### almighty Jeff
+http://jeffe.cs.illinois.edu/teaching/algorithms/
