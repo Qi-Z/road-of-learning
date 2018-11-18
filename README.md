@@ -160,3 +160,6 @@ http://www.cs.cmu.edu/~15451/
 
 ### almighty Jeff
 http://jeffe.cs.illinois.edu/teaching/algorithms/
+
+### Kappa Structure
+https://www.oreilly.com/ideas/applying-the-kappa-architecture-in-the-telco-industry
