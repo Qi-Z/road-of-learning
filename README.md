@@ -10,6 +10,10 @@ Track what I learned and am learning
 # Books
 ## Books repo  https://github.com/Qi-Z/books
 
+### Ruby on Rails 编程圣经
+https://ihower.tw/rails/
+
+
 ### Angular Router
 A comprehensive book by Angular core team member
 
