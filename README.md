@@ -62,6 +62,11 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-m
 
 
 # Websites
+
+### Good RoR Community: ruby-china
+https://ruby-china.org/topics/37790
+
+
 ### The Node Way
 http://thenodeway.io/introduction/#build-small-single-purpose-modules
 
