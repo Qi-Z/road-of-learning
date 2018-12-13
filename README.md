@@ -10,6 +10,8 @@ Track what I learned and am learning
 # Books
 ## Books repo  https://github.com/Qi-Z/books
 
+### The Design of Everyday APIs
+
 ### Ruby on Rails 编程圣经
 https://ihower.tw/rails/
 
@@ -59,6 +61,8 @@ https://www.railstutorial.org/book
 ### Mathematics for computer science
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm
 
+### Berkeley RoR Course
+https://www.edx.org/professional-certificate/agile-development-using-ruby-rails
 
 
 # Websites
