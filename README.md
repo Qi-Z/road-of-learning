@@ -70,6 +70,9 @@ https://www.edx.org/professional-certificate/agile-development-using-ruby-rails
 ### Good RoR Community: ruby-china
 https://ruby-china.org/topics/37790
 
+### Good articles about web application (JS, CSS, etc)
+https://www.w3cplus.com
+
 
 ### The Node Way
 http://thenodeway.io/introduction/#build-small-single-purpose-modules
