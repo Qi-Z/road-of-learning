@@ -74,6 +74,9 @@ https://ruby-china.org/topics/37790
 https://www.w3cplus.com
 
 
+### Some front-end, web, JavaScript stuff to know
+https://segmentfault.com/a/1190000010136751
+
 ### The Node Way
 http://thenodeway.io/introduction/#build-small-single-purpose-modules
 
