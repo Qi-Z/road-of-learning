@@ -1,5 +1,5 @@
 - [ ] Concrete Mathematics
-- [ ] Algorithm Design
+- [ ] Algorithm Design (http://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
 - [ ] Algorithms 4th Edition
 <br><br><br><br><br>
 - [ ] Algorithms by Dasgupta, Papadimitriou, Vazirani.
