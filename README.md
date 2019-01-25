@@ -183,6 +183,11 @@ http://jeffe.cs.illinois.edu/teaching/algorithms/
 ### Kappa Structure
 https://www.oreilly.com/ideas/applying-the-kappa-architecture-in-the-telco-industry
 
+### SQL实战
+https://www.nowcoder.com/ta/sql
+
+
 # Podcast
 
 ### http://www.fullstackradio.com/
+
