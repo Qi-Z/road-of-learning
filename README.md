@@ -186,6 +186,9 @@ https://www.oreilly.com/ideas/applying-the-kappa-architecture-in-the-telco-indus
 ### SQL实战
 https://www.nowcoder.com/ta/sql
 
+### 系统设计实战
+https://blog.csdn.net/qq_39318187/article/details/77650348
+
 ### RPC
 https://grpc.io/docs/guides/
 
