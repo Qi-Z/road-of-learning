@@ -200,3 +200,6 @@ https://www.zhihu.com/question/25255189
 
 ### http://www.fullstackradio.com/
 
+### thoughtbots blog
+https://robots.thoughtbot.com/
+
