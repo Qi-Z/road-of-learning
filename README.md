@@ -199,6 +199,7 @@ https://www.zhihu.com/question/25255189
 https://segmentfault.com/a/1190000007282628
 https://github.com/yongshun/learn_netty_source_code
 
+### Design Patterns in Ruby by Russ Olsen
 
 
 # Podcast
