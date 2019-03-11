@@ -96,6 +96,9 @@ https://introcs.cs.princeton.edu/java/23recursion/
 ### Beginner AI, ML
 https://www.quora.com/What-is-the-best-way-to-learn-AI-DL-and-ML
 
+### Rails原理必读
+https://book.a-bitcoin.com/testing/gem_factory_girl.html
+
 # Topics
 
 ### GraphQL
