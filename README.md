@@ -99,6 +99,9 @@ https://www.quora.com/What-is-the-best-way-to-learn-AI-DL-and-ML
 ### Rails原理必读
 https://book.a-bitcoin.com/testing/gem_factory_girl.html
 
+### Laravel 网站实例
+https://laravelacademy.org/post/1117.html
+
 # Topics
 
 ### GraphQL
