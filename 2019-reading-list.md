@@ -12,3 +12,5 @@
 - [ ] The Algorithm Design Manual
 - [ ] The Art of Computer Programming
 
+- [ ] Numerical Analysis by Timothy Sauer https://www.amazon.com/Numerical-Analysis-3rd-Timothy-Sauer/dp/013469645X
+
